@@ -1,1 +1,15 @@
 Write down the topics you know in GIT
+-------------------------------------
+Version Control Systems
+1.Localised Version Control System
+2.Centralised Version C S
+3.Distributive Version Control System
+--------------------------------------
+Git Basics
+--------------------------------------
+Git Branching and Merging
+--------------------------------------
+Working Stages
+--------------------------------------
+Basic Commands
+--------------------------------------

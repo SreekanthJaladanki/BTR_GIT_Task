@@ -1,1 +1,8 @@
 Write down the topics you know in Linux
+----------------------------------------
+Basic Linux Commands
+File directories
+File System
+How to create User and setting up password
+Giving sudoers Permissions
+
