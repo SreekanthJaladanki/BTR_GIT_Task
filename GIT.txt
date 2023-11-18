@@ -1,7 +1,14 @@
+<<<<<<< HEAD
 Write down the topics you know in GIT
 
 1.  git init 
    - Initialize a new Git repository.
+=======
+
+
+1.  git init 
+   -Initialize a new Git repository.
+>>>>>>> f8327a7138861fb27df2672dc586d1276f73d260
 
 2.  git clone \<repository_url> 
    - Clone a remote repository to your local machine.
@@ -65,3 +72,7 @@ Write down the topics you know in GIT
 
 22.  git config --global user.email "you@example.com" 
     - Set your global Git email address.
+<<<<<<< HEAD
+=======
+
+>>>>>>> f8327a7138861fb27df2672dc586d1276f73d260
