@@ -1,1 +1,7 @@
 Write down the topics you know in Linux
+==>Linux is a open source operating system
+==>Linux is developed by Linus Torvalds
+==>It provides high security
+==>Linux classified into two types
+	-->GUI
+	-->CLI

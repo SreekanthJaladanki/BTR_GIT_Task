@@ -1,1 +1,4 @@
 Write down the topics you know in Jenkins
+==>Jenkins is an automation tool for CI/CD
+==>Written in Java
+==>It is a web application

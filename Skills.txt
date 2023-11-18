@@ -1,0 +1,12 @@
+==>Amazon Web Services(AWS)
+	-->EC2
+	-->S3
+	-->IAM
+	-->VPC
+	-->Lambda
+	-->Cloudwatch
+
+==>Java
+     -->In java I know the OOPs concepts
+     -->I know collections & libraries
+     --> I can handle the exceptions

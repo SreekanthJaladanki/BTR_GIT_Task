@@ -1,1 +1,7 @@
-Write down the topics you know in GIT
+Write down the topics you know in GIT 
+==>git is a open source version control tool which follows distributed VCS
+==>There are three stages in git 
+	-->working directory
+	-->staging area
+	-->local repo
+
