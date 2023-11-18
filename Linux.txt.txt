@@ -1,1 +1,21 @@
 Write down the topics you know in Linux
+
+1.  Terminal
+
+2.  Shell
+
+3.  Filesystem
+
+4.  Basic Command
+
+5.  Permission
+
+6.  Files system
+
+7.  File Directory
+
+8.  Creating user
+
+9.  Create gruop
+
+10. Architecture of linux
