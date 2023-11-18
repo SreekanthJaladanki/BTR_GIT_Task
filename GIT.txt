@@ -1,1 +1,66 @@
-Write down the topics you know in GIT
+1.  git init 
+   - Initialize a new Git repository.
+
+2.  git clone \<repository_url> 
+   - Clone a remote repository to your local machine.
+
+3.  git status 
+   - View the status of your changes in the working directory.
+
+4.  git add \<file_name> 
+   - Add changes to the staging area before committing.
+
+5.  git commit -m "Commit message" 
+   - Save staged changes with a descriptive commit message.
+
+6.  git log 
+   - Display a log of all commits in the repository.
+
+7.  git branch \<branch_name> 
+   - Create a new branch for developing a feature or fixing a bug.
+
+8.  git checkout \<branch_name> 
+   - Switch to a different branch.
+
+9.  git merge \<branch_name> 
+   - Combine changes from one branch into another.
+
+10.  git remote add \<remote_name> \<repository_url> 
+    - Connect your local repository to a remote repository.
+
+11.  git fetch \<remote_name> 
+    - Download changes from a remote repository without merging.
+
+12.  git pull \<remote_name> \<branch_name> 
+    - Fetch and merge changes from a remote repository.
+
+13.  git push \<remote_name> \<branch_name> 
+    - Upload local changes to a remote repository.
+
+14.  git remote -v 
+    - Display a list of remote repositories.
+
+15.  git push -u \<remote_name> \<branch_name> 
+    - Push a new local branch to a remote repository.
+
+16.  git rebase \<base_branch> 
+    - Reapply your changes on top of another branch, rewriting history.
+
+17.  git restore \<file_name> 
+    - Discard changes in the working directory for a specific file.
+
+18.  git reset HEAD^ 
+    - Unstage the last commit while keeping changes in the working directory.
+
+19.  git reset --hard HEAD^ 
+    - Discard the last commit and all changes in the working directory.
+
+20.  git clean -df 
+    - Remove untracked files and directories.
+
+21.  git config --global user.name "Your Name" 
+    - Set your global Git username.
+
+22.  git config --global user.email "you@example.com" 
+    - Set your global Git email address.
+
