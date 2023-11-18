@@ -1,0 +1,4 @@
+-Good communication
+-Basic skills in pyhton,Java
+-AWS Tools
+
