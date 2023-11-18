@@ -1,1 +1,5 @@
 Write down the topics you know in Linux
+basic commands
+create users 
+create password
+create users

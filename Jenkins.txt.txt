@@ -1,1 +1,5 @@
 Write down the topics you know in Jenkins
+free style proect
+install jenkins in linux
+install jenkins in windows
+

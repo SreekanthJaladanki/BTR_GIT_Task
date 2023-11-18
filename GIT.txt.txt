@@ -1,1 +1,11 @@
 Write down the topics you know in GIT
+git initilization
+git branching
+git clone
+git pull
+git fetch
+git commit
+git pull
+git fetch
+git merge
+git clone
