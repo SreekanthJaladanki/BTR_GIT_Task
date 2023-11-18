@@ -1,1 +1,11 @@
 Write down the topics you know in GIT
+-CS
+-Classifications of VCS
+  1.Local VCS
+  2.Centralized VCS
+  3.Distributed VCS
+
+-GIT working flow
+-Features of GIT
+
+

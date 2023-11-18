@@ -1,1 +1,5 @@
 Write down the topics you know in Linux
+
+-Structure of LINUX OS
+-learnt some Commands we used in Linux
+  some commands are --> pwd,ls,cat,su,cd,touch,rm,mkdir and etc
