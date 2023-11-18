@@ -1,0 +1,10 @@
+Technical skills
+
+1. SQL
+2. CORE JAVA
+3. AWS SERVICES
+   a. EC2
+   b. S3
+   c. Lambda
+   d. Git
+   e. Maven
