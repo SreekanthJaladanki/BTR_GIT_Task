@@ -1,5 +1,7 @@
+
+
 1.  git init 
-   - Initialize a new Git repository.
+   -Initialize a new Git repository.
 
 2.  git clone \<repository_url> 
    - Clone a remote repository to your local machine.
