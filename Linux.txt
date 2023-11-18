@@ -1,1 +1,6 @@
 Write down the topics you know in Linux
+creating user
+creating group
+file system
+commands
+file directories

@@ -1,1 +1,5 @@
 Write down the topics you know in Jenkins
+giving permission to user
+creating user
+creating freestyle project
+creating maven project
