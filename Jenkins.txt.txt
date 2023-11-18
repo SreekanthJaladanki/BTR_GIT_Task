@@ -1,1 +1,7 @@
 Write down the topics you know in Jenkins
+
+JENKINS 
+1) INSTALLATION
+2) CREATING FREESTYLE JOBS
+3) MAVEN PROJECT
+4)CREATING NODES

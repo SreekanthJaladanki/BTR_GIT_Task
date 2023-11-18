@@ -1,1 +1,7 @@
 Write down the topics you know in GIT
+
+1) different types of vcs
+2) git , git basic commands
+3) git  merging and branching
+4)resolving the merge conflits
+5)wrking stages
