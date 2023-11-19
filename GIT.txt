@@ -1,1 +1,1 @@
-Write down the topics you know in GIT
+git is a version control system and source code management system
