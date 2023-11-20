@@ -1,1 +1,23 @@
 Write down the topics you know in Jenkins
+
+>>>>>>>>>>>>>>>>>Jenkins<<<<<<<<<<<<<<<<<
+
+1.  Introduction to Jenkins
+
+2.  Installation and Setup
+
+3.  Creating and Running Jobs
+
+4.  SCM Integration
+
+5.  Build Automation
+
+6.  Plugins in Jenkins
+
+7.  Pipeline as Code
+
+8.  Integration with Testing Frameworks
+
+9.  Deployment Automation
+
+10. Security in Jenkins

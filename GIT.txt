@@ -1,1 +1,23 @@
 Write down the topics you know in GIT
+
+>>>>>>>>>>>>>>>>>GIT<<<<<<<<<<<<<<<<<
+
+1.  Version Control System (VCS)
+
+2.  Git Basics
+
+3.  Branching
+
+4.  Remote Repositories
+
+5.  Resolving Conflicts
+
+6.  Undoing Changes
+
+7.  Gitignore
+
+8.  Tagging
+
+9.  Git Config
+
+10. git config commands

@@ -1,1 +1,13 @@
 Write down the topics you know in Linux
+
+>>>>>>>>>>>>>>>>>Linux<<<<<<<<<<<<<<<<<
+
+1.  Introduction to Jenkins
+
+2.  Basic commands
+
+3.  User and group
+
+4.  File directories
+
+5.  Shell Scripting
