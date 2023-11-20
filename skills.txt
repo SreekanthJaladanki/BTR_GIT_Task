@@ -1,0 +1,2 @@
+AWS: EC2, AWS Amplify, VPC, Lambda, Cloudwatch, IAM
+Machine Learning: logistic Regression, Multilayer Perceptrons, Neural Networks, CNN, Numpy, Jupyter Notebook.

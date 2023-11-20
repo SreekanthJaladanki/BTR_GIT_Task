@@ -1,1 +1,7 @@
 Write down the topics you know in Jenkins
+----------------------------------------
+Connecting to Jenkins in local Machine
+Connecting to Jenkins server in Linux
+Creating project
+Compiling .java and .sh files
+
