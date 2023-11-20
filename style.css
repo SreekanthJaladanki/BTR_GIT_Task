@@ -1,0 +1,329 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    height: 130px;
+    /* border: 2px solid red; */
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(53, 53, 53);
+
+}
+#div1{
+    height: 100px;
+    width: 20%;
+    /* border: 2px solid green; */
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+h1{
+    font-size: 40px;
+    color: whitesmoke;
+    font-family: 'Fuggles', cursive;
+font-family: 'Noto Sans JP', sans-serif;
+font-family: 'Pixelify Sans', cursive;
+}
+#div2{
+    height: 100px;
+    width: 60%;
+    /* border: 2px solid green; */
+    
+    
+}
+#div2 ul{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100px;
+    font-size: 18px;
+    font-family: 'Fuggles', cursive;
+font-family: 'Noto Sans JP', sans-serif;
+font-family: 'Pixelify Sans', cursive;
+} 
+
+#div2 ul li a{
+    text-decoration: none;
+    color: white;
+    
+}
+#div2 ul li a:hover{
+    color: yellow;
+    font-size: 30px;
+}
+#container{
+    border-top: solid 1px #222628;
+    box-shadow: inset 0px 1px 0px 0px #3e484a;
+    padding: 35px 0 35px 0;
+    color: #fff;
+    height: 350px;
+    /* width: 95%; */
+    /* border: 2px solid red; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(53, 53, 53);
+}
+
+#containerdiv{
+    height: 500px;
+    width: 93%;
+    /* border: 2px solid green; */
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-left: 12px;
+    /* gap: 110px; */
+}
+
+#rose{
+    height: 310px;
+    width: 40%;
+    /* border: 2px solid blue; */
+    display: flex;
+     flex-direction: column ;
+     justify-content: space-around;
+     /* align-items: center; */
+}
+
+#rose p{
+   font-size: 30px;
+   color: white;
+}
+
+button{
+    height: 49px;
+    width: 171px;
+    background-color: red;
+    color: white;
+    font-size: 20px;
+    border-radius: 8%;
+    cursor: pointer;
+    transition: all 2s ease-in-out;
+ }
+ #rose img{
+    border: 10px solid white;
+ }
+
+ #rose button:hover{
+    
+    transition-property: all;
+    transition-duration: 2s;
+    transition-delay: 0s;
+    transition-timing-function: ease-in-out;
+    background-color: hotpink;
+}
+#titanic{
+    height: 500px;
+    /* width: 95%; */
+    /* border: 2px solid red; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(40, 39, 39);
+}
+
+#jack{
+    height: 500px;
+    width: 89%;
+    /* border: 2px solid green; */
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    /* margin-left: 12px; */
+    /* gap: 110px; */
+}
+
+#ship{
+    height: 330px;
+    width: 20%;
+    /* border: 2px solid blue; */
+    display: flex;
+     flex-direction: column ;
+     justify-content: space-between;
+     /* align-items: center; */
+}
+
+#ship img{
+    height: 150px;
+    width: 268px;
+    border: 10px solid white;
+    cursor: pointer;
+}
+#ship h2{
+font-size: 1.25em;
+    color: #fff;
+    margin: 0 0 0.25em 0;
+}
+
+#ship p{
+    font-size: 15px;
+    color: white;
+}
+
+#Luffy{
+    height: 650px;
+    /* border: 2px solid red; */
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(231, 231, 231);
+}
+
+#Nami{
+    height: 600px;
+    width: 89%;
+    /* border: 2px solid green; */
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    /* background: #fff; */
+    padding: 40px 30px 45px 30px;
+    /* box-shadow: 2px 2px 2px 1px rgba(128, 128, 128, 0.1); */
+    margin: 0 0 25px 0;
+
+
+}
+
+#roro{
+    height: 500px;
+    width: 30%;
+    /* border: 2px solid blue; */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    /* align-items: center; */
+    box-shadow: 5px 5px 5px rgb(74, 74, 74);
+    background-color: white;
+    color: rgb(105, 104, 104);
+
+}
+
+#mia1{
+    height: 100px;
+    /* border: 2px solid red; */
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+    margin-left: 15px;
+}
+#mia1 h2{
+    font-size: 30px;
+}
+#mia1 p{
+    font-size: 20px;
+}
+#mia2{
+    margin-left: 15px;
+    height: 180px;
+    /* border: 2px solid red; */
+}
+#mia2 img{
+    width: 100%;
+}
+
+#mia3{
+    height: 180px;
+    margin-left: 15px;
+    /* border: 2px solid red; */
+}
+#mia3 p{
+    font-size: 18px;
+    line-height: 40px;
+}
+#koby1{
+    height: 100px;
+    /* border: 2px solid red; */
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+    margin-left: 20px;
+}
+#koby1 h2{
+    font-size: 30px;
+}
+#koby1 p{
+    font-size: 20px;
+}
+#koby2{
+    height: 77%;
+    /* border: 2px solid greenyellow; */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+#rap{
+    height: 17%;
+    /* border: 2px solid gold; */
+    display: flex;
+    /* justify-content: space-between; */
+    align-items: center;
+    gap: 30px;
+    margin-left: 20px;
+    border-bottom: 2px solid rgb(225, 222, 222);
+    
+}
+#h{
+    
+    font-size: 25px;
+    
+    background-color: red;
+    color: white;
+}
+#rap p{
+    font-size: 20px;
+}
+
+#ele1{
+    height: 100px;
+    /* border: 2px solid red; */
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+    margin-left: 15px;
+}
+#ele1 h2{
+    font-size: 30px;
+}
+#ele1 p{
+    font-size: 20px;
+}
+#ele2{
+    height: 77%;
+    /* border: 2px solid greenyellow; */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    border-bottom: 2px solid rgb(225, 222, 222);
+}
+#cory{
+height: 30%;
+/* border: 2px solid gold; */
+display: flex;
+/* justify-content: space-between; */
+align-items: center;
+gap: 30px;
+margin-left: 20px;
+border-bottom: 2px solid rgb(225, 222, 222);
+
+}
+#natasha1 img{
+    height: 80px;
+}
+#natasha2{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+#natasha2 h4{
+    font-size: 20px;
+}
+#natasha2 p{
+    font-size: 17px;
+}
