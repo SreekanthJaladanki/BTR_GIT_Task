@@ -1,0 +1,17 @@
+Skills
+
+HTML - creating a web with html
+CSS  - desing the webpage using css
+
+AWS
+
+1.  EC2
+2.  Lambda
+3.  S3
+4.  EBS
+5.  RDS
+6.  VPC
+7.  IAM
+8.  Cloudwatch
+9.  SNS
+10. Cloud shell

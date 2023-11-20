@@ -1,1 +1,21 @@
 Write down the topics you know in GIT
+
+1.  Remote Repo
+
+2.  Clone
+
+3.  Commit
+
+4.  Branching
+
+5.  Merging
+
+6.  Pull request
+
+7.  Fetch
+
+8.  Pull
+
+9.  push
+
+10. Confilct resolving

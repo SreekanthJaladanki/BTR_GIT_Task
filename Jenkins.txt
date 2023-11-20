@@ -1,1 +1,11 @@
 Write down the topics you know in Jenkins
+
+1.  Build
+
+2.  Plugins
+
+3.  Freestyle project
+
+4.  Pipeline
+
+5.  Authentication
