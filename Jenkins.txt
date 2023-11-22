@@ -1,1 +1,8 @@
 Write down the topics you know in Jenkins
+
+Pipeline
+FreeStyle Projections
+Installation in local repository
+Plugins
+Master Slave Architecture
+Jobs
