@@ -1,1 +1,9 @@
 Write down the topics you know in Jenkins
+1.What is linux?
+2.Architecture of linux
+3.linux files and directories
+4.linux commands
+5.To create users and groups
+6.What is shell?
+7.Types of shells
+

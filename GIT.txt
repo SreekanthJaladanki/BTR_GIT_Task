@@ -1,1 +1,7 @@
 Write down the topics you know in GIT
+1.Git is a vcs and source code management system
+2.Git configure
+3.Git initalze
+4.Git stage,commit,push,pull,fetch
+5.to create branch
+6.to merge

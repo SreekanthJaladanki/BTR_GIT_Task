@@ -1,1 +1,12 @@
 Write down the topics you know in Linux
+1.What is linux?
+2.Architecture of linux
+3.Linux files and directories
+4.linux commands
+5.To create users and groups
+6.What is shell?
+7.Types of shells
+8.What is thw shell scripting?
+9.Condition statements
+10.Difference between linux and windows
+
