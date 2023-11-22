@@ -1,1 +1,9 @@
 Write down the topics you know in GIT
+
+VCS
+GIT
+GIT vs GitHub
+GitHub vs GitLab
+GIT vs Mercurial
+Commands
+Traditional Way of Software
