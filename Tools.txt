@@ -7,4 +7,3 @@ Maven:
 Jenkins:
 Docker:
 Jenkins:
-K8s:

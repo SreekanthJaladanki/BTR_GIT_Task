@@ -1,3 +1,1 @@
 Write down the topics you know in GIT
-
-stage,commit,push,merge,branch
