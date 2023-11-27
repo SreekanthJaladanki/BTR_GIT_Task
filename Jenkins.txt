@@ -1,1 +1,12 @@
 Write down the topics you know in Jenkins
+
+1.Introduction to jenkins
+2. Installation and setup
+3.creating and running jobs
+4.SCM integration
+5.Bulid automation
+6.Plugins in jenkins
+7.pipeline as code
+8.Integration with testing framework
+9.Deployment automation
+10.security in jenkins
