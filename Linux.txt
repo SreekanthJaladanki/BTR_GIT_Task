@@ -2,7 +2,7 @@ Write down the topics you know in Linux
 
 >>>>>>>>>>>>>>>>>Linux<<<<<<<<<<<<<<<<<
 
-1.  Introduction to Jenkins
+1.  Introduction to Linux
 
 2.  Basic commands
 
